@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yaki3355
-- 👀 I’m interested in Node.js, JavaScript, Algorithms
 - 💞️ I’m looking to collaborate on Node.js, JavaScript, Algorithms
 - 📫 yaki3355@gmail.com
 
