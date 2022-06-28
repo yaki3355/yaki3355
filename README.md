@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaki3355
+- 👋 Hi, I’m Yaki
 - 💞️ I’m looking to collaborate on Node.js, JavaScript, Algorithms
 - 📫 yaki3355@gmail.com
 
