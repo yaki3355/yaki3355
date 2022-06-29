@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaki
-- 💞️ I’m looking to collaborate on Node.js, JavaScript, Algorithms
+- 💞️ I’m looking to collaborate on JavaScript, Node.js
 - 📫 yaki3355@gmail.com
 
 <!---
