@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Yaki
-- 💞️ I’m looking to collaborate on JavaScript, Node.js, Java
-- 📫 yaki3355@gmail.com
+- 💞️ I’m looking to collaborate on JavaScript and Java
